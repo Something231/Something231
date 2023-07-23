@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Something231
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: Don't
+- E
 
 <!---
 Something231/Something231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
