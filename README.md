@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Something231
-- I'm currently learning:
+* 👋 Hi, I’m @Something231
+* I'm currently learning:
 - Python
 - C++
 
